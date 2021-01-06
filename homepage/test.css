@@ -1,0 +1,154 @@
+body {
+  font-size: 14px;
+  color: #333;
+  margin: 0 auto;
+}
+h1,h2,h3,h4,h5,h6,p {
+  padding: 10px 0;
+  margin: 0;
+}
+
+
+ul,li {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  height: 50px;
+  background-color: #f0f0f0;
+  padding: 10px 0;
+  display: flex;
+}
+
+.heading{
+  width: 50%;
+  margin-left: 30px;
+}
+.navbar {
+  width: 50%;
+  padding: 20px;
+}
+
+.nav-lists {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+}
+.title{
+  font-family: 'Creepster', cursive;
+}
+
+
+
+.contents {
+  background-color: white;
+}
+
+.first-view{
+  height: 60vh;
+  display: flex;
+  justify-content: space-between;
+}
+.top-image {
+  height: 500px;
+  width: 700px;
+ 
+  
+ 
+}
+
+.top-image2 {
+  height: 500px;
+  width: 700px;
+  margin-left: 10px;
+  
+ 
+}
+.heading-name{
+  font-size: 100px;
+  color: rgba(10, 173, 223, 0.815);
+  font-family: 'Creepster', cursive;
+  margin-left: 340px;
+}
+
+
+.upper-content{
+  height: 450px;
+  margin: 0 160px;
+}
+
+
+.messages {
+  width: 50vw;
+  margin: 0 auto;
+}
+
+.message {
+  display: flex;
+  font-size: 18px;
+  margin: 0 0 16px 70px;
+  margin-left: 180px;
+  margin-top: 20px;
+}
+
+.message-date {
+  padding-right: 40px;
+  
+}
+
+
+.middle-content{
+  height: 450px;
+  margin: 0 160px;
+}
+
+
+.bottom-content {
+  height: 200px;
+  margin: 0 160px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  height: 50px;
+  background-color: #f0f0f0;
+  text-align: center;
+  color:#f0f0f0;
+}
+.stylist-list {
+  display: flex;
+  justify-content: space-around;
+  margin: 60px 0;
+}
+
+.stylist-image {
+  height: 300px;
+  
+}
+
+.stylist-name {
+  font-size: 16px;
+  text-align: center;
+}
+
+.video{
+  height: 600px;
+  width: 800px;
+  margin-left: 330px;
+  margin-bottom: 70px;
+}
+
+.top{
+  font-size: 100px;
+  color: goldenrod;
+  font-family: 'Creepster', cursive;
+}
+
